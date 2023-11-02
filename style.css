@@ -1,0 +1,45 @@
+.serif{
+    font-family: serif;
+}
+.sans-serif{
+    font-family: sans-serif;
+}
+.monospace{
+    font-family: monospace;
+}
+.times{
+    font-family: "Times New Roman",serif;
+}
+.georgia{
+    font-family: Georgia,serif;
+}
+.arial{
+    font-family:"Arial",Arial,sans-serif;
+}
+.verdana{
+    font-family:"Verdana",Verdana,sans-serif;
+}
+.courier{
+    font-family: "Courier New",courier,monospace;
+}
+.lucida{
+    font-family:"Lucida Console",lucida,monospace;
+}
+h4+ul{
+    font-size: 30px;
+    background-color: lightgreen;
+}
+h4+p{
+    background-color: skyblue;
+    font-size: 24px;
+}
+.sofia{
+    font-family:"Sofia",sans-serif;
+}
+.acme{
+    font-family:"Acme",sans-serif;
+}
+h2~p{
+    background-color: rosybrown;
+    font-size: 20px;
+}
